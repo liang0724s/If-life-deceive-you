@@ -1,7 +1,5 @@
 # hello-world
-introduction
 假如生活欺骗了你
-
 If by life you were deceived,
 Don't be dismal,don't be wild!
 In the day of grief,be mild:
